@@ -1,13 +1,13 @@
 {
   "name": "node-express",
   "version": "1.0.0",
-  "description": "Node Express Examples",
+  "description": "Node Express RestAPI Assignement",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
-  "author": "Gershon",
+  "author": "Jignesh Patel",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
